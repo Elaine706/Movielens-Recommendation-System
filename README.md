@@ -24,5 +24,6 @@ The dataset is used under the GroupLens Research usage agreement:
 - Genre preprocessing
 ## images/
 - Visualization results
+- Movie Recommendation Demo
 ## recommendation.py
 - Genre-based recommendation system
