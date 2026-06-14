@@ -5,7 +5,7 @@ st.title("🎬 movie recommendation")
 mydb = mariadb.connect(
     host="localhost",
     user="root",
-    password="elaine10",
+    password="your_password",
     database="movie"
 )
 mycursor = mydb.cursor()
