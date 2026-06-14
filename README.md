@@ -16,3 +16,13 @@ The dataset is used under the GroupLens Research usage agreement:
 1. Split genres into separate table
 2. Analyzed rating distribution → choose **50** as minimum rating count
 3. Recommendation: filter by genre → keep movies with ≥50 ratings → sort by average rating
+# Structure
+analysis/
+- SQL analysis queries
+- Rating distribution visualization
+data_processing/
+- Genre preprocessing
+images/
+- Visualization results
+recommendation.py
+- Genre-based recommendation system
