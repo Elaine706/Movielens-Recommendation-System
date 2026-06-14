@@ -7,6 +7,6 @@ The dataset is used under the GroupLens Research usage agreement:
 - Redistribution of the dataset is not allowed
 - No commercial use permitted
 # Features
-Genre-based movie recommendation
-Movie rating analysis
-Data visualization
+-Genre-based movie recommendation
+-Movie rating analysis
+-Data visualization
