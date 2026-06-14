@@ -2,8 +2,8 @@
 a genre-based movie recommendation system built with Python, Mariadb, SQL, and Streamlit using the MovieLens dataset
 # Background
 As a movie enthusiast, I often struggle with "what to watch." This project solves that problem: based on the user's selected genre, recommend the highest-rated movies with a reliable number of ratings.
-# data source
-this project uses the Movielens dataset available on Kaggle, uploaded by Sherin Claudia. Due to license restrictions, the dataset is not included in this repository.
+# Data source
+This project uses the Movielens dataset available on Kaggle, uploaded by Sherin Claudia. Due to license restrictions, the dataset is not included in this repository.
 The dataset is used under the GroupLens Research usage agreement:
 - For research and educational purposes only
 - Redistribution of the dataset is not allowed
